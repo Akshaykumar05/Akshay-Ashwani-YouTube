@@ -1,8 +1,8 @@
 # Akshay-Ashwani-YouTube
 
-### Coming Videos on Twitter spaces.
-1. DevOps Talk
-2. All about Cloud & DevOps.
+### Twitter spaces.
+1. DevOps Talk (with Shubham-DevOps intern)
+2. All about Cloud & DevOps (with Bilal)
 3. Guidance Session (with Guru)
 4. GSoC-2023 (with Akshat)
-5. 
+
