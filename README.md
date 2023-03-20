@@ -1,4 +1,4 @@
-# Akshay-Ashwani-YouTube
+# YouTube
 
 ### Twitter spaces.
 1. DevOps Talk (with Shubham-DevOps intern)
